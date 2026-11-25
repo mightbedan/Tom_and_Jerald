@@ -4,7 +4,8 @@ A 2D jetpack side-scroller written in C++ on DigiPen's Alpha Engine. You steer w
 
 Team project for GAM 150 at Singapore Institute of Technology / DigiPen Institute of Technology Singapore, Jan to Apr 2026. Team of 5.
 
-![Gameplay screenshot](docs/screenshot.png)
+<img width="1590" height="886" alt="image" src="https://github.com/user-attachments/assets/7d1f4a0e-ff1a-4988-be78-f15c3f1ed1b1" />
+
 
 ## Features
 
